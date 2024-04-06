@@ -45,7 +45,7 @@ github.com/BigWildTiger/StarSeedCoupon/releases
 ![image](https://github.com/BigWildTiger/StarSeedCoupon/assets/10737912/3518c3b7-18d8-4b47-ad42-235298cc7559)
 
 
-## 5. 크롬 확장 아이콘을 클릭해서 CScode 를 붙여넣기 한다.
+## 5. 크롬 확장 아이콘을 클릭해서 CScode 를 붙여넣기 하고 save 클릭.
 
 ![image](https://github.com/BigWildTiger/StarSeedCoupon/assets/10737912/e0680a79-f4a2-4b8d-9986-9bf7c60aa5b5)
 
