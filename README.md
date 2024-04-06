@@ -22,7 +22,7 @@ Github Created by. 븅신갓겜
 
 ## 1. 아래 주소에서 zip 파일 다운로드.
 
-github.com/BigWildTiger/StarSeedCoupon/releases
+https://github.com/BigWildTiger/StarSeedCoupon/releases
 
 [파일 다운로드](https://github.com/BigWildTiger/StarSeedCoupon/releases/download/v1.3/StarSeedCoupon_v1.3.zip)
 
