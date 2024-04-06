@@ -55,7 +55,7 @@ chrome.contextMenus.onClicked.addListener(async (info) => {
 	  chrome.notifications.create({
       type: 'basic',
       iconUrl: '/images/alarm.jpeg',
-      title: '스타시드 쿠폰 사용',
+      title: `스타시드 쿠폰 사용 - CS코드 : ${csCode}`,
       message: `${coupon} : ${result}`,
       priority: 2
       });
