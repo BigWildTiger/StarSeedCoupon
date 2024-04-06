@@ -28,12 +28,12 @@ github.com/BigWildTiger/StarSeedCoupon/releases
 
 
 
-4. 크롬 브라우저 주소창에 chrome://extensions/  입력
+2. 크롬 브라우저 주소창에 chrome://extensions/  입력
 ![image](https://github.com/BigWildTiger/StarSeedCoupon/assets/10737912/e69f22d3-20f9-4ef9-b856-bbf8b47942fa)
 
 
 
-5. [압축 해제된 확장 프로그램을 로드합니다.] 버튼을 누르고 압축을 푼 폴더를 선택한다.
+3. [압축 해제된 확장 프로그램을 로드합니다.] 버튼을 누르고 압축을 푼 폴더를 선택한다.
 
 ![image](https://github.com/BigWildTiger/StarSeedCoupon/assets/10737912/b7e0a10b-988f-412a-8fa6-510fe892044f)
 
