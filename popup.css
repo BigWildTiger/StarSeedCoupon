@@ -1,6 +1,5 @@
 body {
   width: max-content;
-
 }
 
 p {
@@ -34,4 +33,24 @@ div {
 
 input {
   margin-left: 5px;
+}
+
+#savedCsCode {
+  margin-left: 0;
+  padding: 0;
+}
+
+.csCodeListItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid;
+  margin-bottom: 1px;
+  margin-left: 0;
+  padding: 1px;
+}
+
+.csCodeListItem > span {
+  font-weight: bold;
+  padding: 3px;
 }
