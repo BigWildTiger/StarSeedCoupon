@@ -7,8 +7,17 @@
     "service_worker": "background.js",
     "type": "module"
   },
-  "permissions": ["storage", "scripting", "contextMenus", "notifications"],
+  "permissions": ["storage", "scripting", "contextMenus", "notifications", "declarativeNetRequest", "declarativeNetRequestWithHostAccess"],
   "host_permissions": ["https://coupon.withhive.com/1614"],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "modify_headers",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
   "action": {
     "default_popup": "popup.html",
     "default_icon": {

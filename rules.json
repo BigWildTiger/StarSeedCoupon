@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        {
+          "header": "Origin",
+          "operation": "set",
+          "value": "https://coupon.withhive.com"
+        },
+        {
+          "header": "Referer",
+          "operation": "set",
+          "value": "https://coupon.withhive.com/1614"
+        }
+      ]
+    },
+    "condition": {
+      "urlFilter": "https://coupon.withhive.com*",
+      "resourceTypes": ["main_frame", "xmlhttprequest"]
+    }
+  }
+]
